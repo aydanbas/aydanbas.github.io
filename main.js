@@ -54,7 +54,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 
 var routes = [
-    { path: '', redirectTo: '/onat', pathMatch: 'full' },
+    { path: '', redirectTo: '/aydan', pathMatch: 'full' },
     { path: 'onat', component: _components_onat_onat__WEBPACK_IMPORTED_MODULE_4__["OnatComponent"] },
     { path: 'onat2', component: _components_onat_onat2__WEBPACK_IMPORTED_MODULE_6__["Onat2Component"] },
     { path: 'aydan', component: _components_aydan_aydan__WEBPACK_IMPORTED_MODULE_2__["AydanComponent"] },
